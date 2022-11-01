@@ -1,4 +1,4 @@
-# A list of tasks completed during studying at [RS School](https://rollingscopes.com/).
+# A list of practical tasks completed during studying at [RS School](https://rollingscopes.com/), not counting algorithmical problems
 
 (from newer to older)
 1. **[HTML-builder](https://github.com/altsep/html-builder)** (Node.js) An improvised bundler that features various file and directory manipulation.
