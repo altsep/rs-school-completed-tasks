@@ -1,9 +1,10 @@
 # A list of tasks completed during studying at [RS School](https://rollingscopes.com/)
 
 (from newer to older)
+1. **Clone**
 1. **Presentation**
 1. **Async Race**
-2. **Online Store** — Task done in teams of 2
+2. **[Online Store](https://big-typical-hallway.glitch.me/)** — Required to be developed in teams of 2
 3. **[Migration to TypeScript](https://rolling-scopes-school.github.io/altsep-JSFE2022Q3/news-api/)** — Front-end for news service utilizing data from https://newsapi.org/
 4. **[Technical Screening](https://github-com.translate.goog/rolling-scopes-school/tasks/tree/master/stage2/modules/technical-screening?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E)**
 5. **Self-Introducton**
